@@ -1,7 +1,7 @@
 ## System operacyjny w środowisku sieciowym
 
 ### Zadania
-
+aa
 
 1. Z wykorzystaniem maszyny wirtualnej, zainstaluj SO oraz wypisz parametry konfiguracji IP tj:
    * Adres
